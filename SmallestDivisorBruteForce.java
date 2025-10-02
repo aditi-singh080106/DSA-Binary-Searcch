@@ -1,4 +1,4 @@
-// LeetCode 1238
+// LeetCode 1283
 import java.util.Scanner;
 public class Main
 {
