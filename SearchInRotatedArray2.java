@@ -1,4 +1,3 @@
-// leet code 1283
 import java.util.Scanner;
 class Main {
    
